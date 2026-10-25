@@ -1,0 +1,10 @@
+node_modules/
+.env
+reports/
+certs/
+scratch.ts
+*.log
+.DS_Store
+
+# Local reference material (exam guide PDF, original course zip): not committed
+reference/
