@@ -8,6 +8,11 @@
     "scratch": "tsx scratch.ts",
     "scratch:watch": "tsx watch scratch.ts",
     "hello:mcp": "tsx playground/mcp-hello/test-client.ts",
+    "demo:prefill": "tsx playground/prefill-vs-structured/demo.ts",
+    "demo:simulate": "tsx playground/prefill-vs-structured/simulate.ts",
+    "demo:sync": "tsx playground/asy/sync.ts",
+    "demo:stream": "tsx playground/asy/stream.ts",
+    "demo:batch": "tsx playground/asy/batch.ts",
 
     "check": "tsx src/check.ts",
     "ask": "tsx src/ask.ts",
